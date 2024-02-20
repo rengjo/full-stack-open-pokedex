@@ -1,5 +1,3 @@
-name: Pokedex
-
 on:
   push:
     branches:
